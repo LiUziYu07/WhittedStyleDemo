@@ -7,7 +7,7 @@
 
 #include <cmath>
 #include <iostream>
-#include "../Constant/constant.h"
+#include "../constant/constant.h"
 using std::sqrt;
 
 class vec3{

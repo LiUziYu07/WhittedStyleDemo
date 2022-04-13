@@ -5,7 +5,7 @@
 #ifndef WHITTEDSTYLEDEMO_CAMERA_H
 #define WHITTEDSTYLEDEMO_CAMERA_H
 
-#include "../Constant/constant.h"
+#include "../constant/constant.h"
 
 class camera {
 public:

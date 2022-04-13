@@ -1,8 +1,8 @@
-#include "Constant/constant.h"
+#include "constant/constant.h"
 #include "Tool/color.h"
 #include "hit/hittable_list.h"
 #include "Tool/sphere.h"
-#include "Camera/camera.h"
+#include "camera/camera.h"
 #include "material/material.h"
 
 #include <iostream>

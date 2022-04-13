@@ -6,7 +6,7 @@
 #define WHITTEDSTYLEDEMO_COLOR_H
 
 #include "vec3.h"
-#include "../Constant/constant.h"
+#include "../constant/constant.h"
 
 #include <iostream>
 #include <fstream>
